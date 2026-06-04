@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include: [".htaccess"]
+
+# Build settings
+title: My Site
+description: GitHub Pages Site
+url: https://amirdz2026az.github.io/a/
+baseurl: /a
